@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.line{
+    font-size: 80px;
+}
+.flex {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   margin-bottom: 200px;
+}
